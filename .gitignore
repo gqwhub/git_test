@@ -1,11 +1,15 @@
 # http://www.gnu.org/software/automake
 
+config.h.*
 Makefile.in
+*.log
+*.sh
 
 # http://www.gnu.org/software/autoconf
 
 /autom4te.cache
 /aclocal.m4
+/build
 /compile
 /configure
 /depcomp
